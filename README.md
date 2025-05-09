@@ -18,6 +18,7 @@ Communication: chrome.runtime, chrome.tabs messaging for coordination
 
 **How to get started**
 1. git clone https://github.com/ShriAmogh/Profanity-Filter.git
+
    cd Profanity-Filter
 
 2. pip install fastapi uvicorn 
